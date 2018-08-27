@@ -1,0 +1,7 @@
+django-admin startproject project_name
+django-admin startapp app-name :boards
+classname.objects.create(parameters)
+Board.objects.all()
+
+
+
